@@ -1,0 +1,352 @@
+{
+  "2025-05-28": [
+    {
+      "date": "2025-05-28",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-28",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-28",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "2025-05-29": [
+    {
+      "date": "2025-05-29",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-29",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-29",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "2025-05-30": [
+    {
+      "date": "2025-05-30",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-30",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-30",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "2025-05-31": [
+    {
+      "date": "2025-05-31",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-31",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-05-31",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "2025-06-01": [
+    {
+      "date": "2025-06-01",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-01",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-01",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "2025-06-02": [
+    {
+      "date": "2025-06-02",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-02",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-02",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ],
+  "2025-06-03": [
+    {
+      "date": "2025-06-03",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal",
+      "competition": "Premier League",
+      "odds": {
+        "1": "1.8",
+        "X": "3.2",
+        "2": "3.8",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-03",
+      "time": "17:30",
+      "team1": "Liverpool",
+      "team2": "Chelsea",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.3",
+        "X": "3.5",
+        "2": "4.2",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    },
+    {
+      "date": "2025-06-03",
+      "time": "20:00",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "competition": "Premier League",
+      "odds": {
+        "1": "2.8",
+        "X": "3.2",
+        "2": "4.6",
+        "Over 2.5": "1.95",
+        "Under 2.5": "1.85",
+        "Both teams to score": "1.75"
+      },
+      "status": "Scheduled"
+    }
+  ]
+}
